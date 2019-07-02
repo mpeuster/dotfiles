@@ -3,7 +3,7 @@
 "
 
 " plugin management with pathogen
-call pathogen#infect()
+"call pathogen#infect()
 
 " background and colors
 "set background=dark
